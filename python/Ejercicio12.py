@@ -18,4 +18,4 @@ elif age >= 45 and imc >= 22:
   print("Tiene un riesgo alto")
 
 else:
-  print("No tiene riesgo o ya estas muerto")
+  print("No tiene riesgo ")
