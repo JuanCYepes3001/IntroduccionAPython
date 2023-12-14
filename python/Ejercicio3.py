@@ -6,3 +6,4 @@ n4 = float(input("Nota 4: "))
 p = (n1+n2+n3+n4)/4
 print ("El promedio de las notas es:")
 print (p)
+

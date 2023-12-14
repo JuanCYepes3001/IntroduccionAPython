@@ -6,3 +6,5 @@ c2 = float(input("Cateto 2: "))
 hh = (c1*c1)+(c2*c2)
 h = raiz(hh)
 print("La hipotenusa es: ", h)
+
+
