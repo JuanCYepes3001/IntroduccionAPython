@@ -1,4 +1,4 @@
-n = int(input("Cuanto numero desea ingresar: "))
+n = int(input("Cual numero desea ingresar: "))
 lsnum = []
 for i in range(n):
   num = int(input("Ingrese un numero: "))
