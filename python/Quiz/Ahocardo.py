@@ -26,8 +26,8 @@ def adivinar_letra(letra, palabra, soluciones):
   return encontrado
 
 print ("Bienvenido al juego del ahorcado")
-x = 1
-while x ==1 :
+menu = ""
+while menu != "2":
   palabra = cargar_palabra()
   soluciones = ["_" for i in range(len(palabra))]
   intentos = 6
@@ -43,12 +43,27 @@ while x ==1 :
       mostrar_tablero(intentos)
   if intentos > 0:
     print("Has ganado!")
+    print ("¿Deseas jugar de nuevo?")
+    print ("1. Continuar juego")
+    print ("2. Salir del juego")
+    menu = input("  ")
+    if menu == 1 :
+      continue
+    elif menu == 2 :
+      break
   else:
     print("Has perdido!")
     print ("¿Deseas jugar de nuevo?")
     print ("1. Continuar juego")
     print ("2. Salir del juego")
-    input("  ")
+    menu = input("  ")
+    if menu == "1" :
+      continue
+    elif menu == "2" :
+      break
     
+
+
+
 
 
