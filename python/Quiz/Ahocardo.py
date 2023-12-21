@@ -47,9 +47,9 @@ while menu != "2":
     print ("1. Continuar juego")
     print ("2. Salir del juego")
     menu = input("  ")
-    if menu == 1 :
+    if menu == "1" :
       continue
-    elif menu == 2 :
+    elif menu == "2" :
       break
   else:
     print("Has perdido!")
