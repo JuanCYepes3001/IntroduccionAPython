@@ -1,0 +1,201 @@
+Nombre Camper,Apellidos Camper,Numero de identificacion,Nombre Acudiente,Direccion Camper,Telefono Camper,Estado Camper,Ruta,Profesor,Salon,Horario,Modulo
+Elizabeth,Barrett,906629001,Andrea Black,"11503 Nguyen Turnpike
+East Eileenstad, AZ 57196",001-245-579-0837x73478,R,Java,Pepe,Apolo,Tarde1,ProgramacionNormal
+Erica,Levy,299284059,Michelle Morrison,"3401 Martinez Ports
+New Theresa, MI 79760",373.313.5074x56284,R,NetCore,Mario,Artemis,Mañana2,fundamentos
+Patrick,Burke,863414884,Kimberly Johnson,"10177 Ashley Inlet Apt. 018
+Richmouth, NE 41270",(916)659-5385x529,R,Java,Andres,Apolo,Tarde1,ProgramacionNormal
+Christopher,Henry,399338547,Brittany Smith,"8842 Roberts Greens
+Parksville, MT 84326",(612)426-9707x2911,A,Java,Pepe,Apolo,Tarde1,fundamentos
+Miguel,Flores,988293744,Christina Roth,"1713 Romero Estates
+Vincentshire, AK 92261",(951)910-6004x377,A,NetCore,Pepe,Sputnik,Mañana1,ProgramacionNormal
+Alexander,Moreno,631564986,Bruce Durham,"PSC 7803, Box 3808
+APO AP 31205",001-998-383-5078,A,NetCore,Pedro,Artemis,Mañana2,DB
+Jeffrey,Sanders,157392085,Denise Hardin,"970 Miller Rue Suite 720
+Hillstad, AR 42964",(903)298-6078x32140,A,NetCore,Carlos,Apolo,Mañana2,ProgramacionNormal
+Danielle,Vaughan,481960052,Tracy Green,"12861 Monica Valley
+Ashleyport, NE 24324",+1-517-511-1663x8398,R,Java,Pedro,Artemis,Mañana1,backend
+Paul,Baker,322732322,James Kelly,"PSC 9368, Box 5836
+APO AE 47665",001-360-345-2073,R,NodeJS,Pedro,Artemis,Tarde1,backend
+Michael,Cruz,481796662,Aaron Murphy,"USNS Davis
+FPO AA 46916",220-204-2217,A,NetCore,Andres,Sputnik,Mañana1,fundamentos
+Sarah,Fuentes,534442029,Julia Owens,"6556 Thomas Station
+Thompsonstad, CO 24998",001-297-736-4126x0586,R,Java,Carlos,Apolo,Mañana1,ProgramacionWeb
+Kathy,Merritt,608782785,Michael Burton,"3674 Christine Point Suite 966
+East Wesley, CA 26914",(334)385-6412x9307,A,NodeJS,Pepe,Sputnik,Mañana2,ProgramacionNormal
+Curtis,Hamilton,829603376,Jeremy Davis,"3727 Riggs Cove
+East Tylerborough, CT 39482",001-340-643-2974x0887,R,NetCore,Mario,Sputnik,Mañana1,ProgramacionWeb
+Amy,Wilcox,241555004,Michael Zavala,"180 Wright Loop Suite 006
+North Peterview, DC 26810",458-878-8522x6652,A,NodeJS,Pedro,Artemis,Mañana1,ProgramacionWeb
+Mark,Santiago,679689863,Kathy Charles,"97414 Bailey Ramp Suite 290
+North Stephanieshire, DC 74183",(615)870-6612x703,A,NetCore,Andres,Sputnik,Mañana1,ProgramacionWeb
+Kelly,Campbell,315751724,Amber Arroyo,"547 Margaret Extensions Apt. 507
+South Georgetown, NM 25247",946.380.7068x95352,R,Java,Pedro,Artemis,Tarde2,ProgramacionNormal
+Patrick,Smith,309595294,Toni Proctor,"95024 Carrie Coves Suite 681
+New Jenniferton, RI 41218",462.744.7126x5887,A,Java,Carlos,Artemis,Mañana1,ProgramacionNormal
+Michael,Mcclure,412042296,Gregory Contreras,"4407 Matthew Creek
+Port David, MO 26588",+1-826-865-7133x001,R,NetCore,Carlos,Sputnik,Tarde1,ProgramacionNormal
+Michael,Howell,232009746,Tina Wagner,"USCGC Frederick
+FPO AA 81035",219-881-3197x325,R,NodeJS,Andres,Sputnik,Mañana2,fundamentos
+Maureen,Schultz,455305097,Charles Valdez,"88931 Eric Harbor
+West Amanda, NE 39292",001-220-879-0560x57315,R,Java,Carlos,Apolo,Tarde2,backend
+Patricia,Howard,870011070,Haley Myers,"001 Stark Stravenue
+Port Joshua, PW 39604",565-663-5247,R,Java,Pepe,Artemis,Tarde1,fundamentos
+William,Baker,394598452,Marisa Wang,"14326 Tony Run
+Shannonshire, KS 92387",4199509908,A,NetCore,Carlos,Artemis,Tarde2,backend
+Dorothy,Thompson,504586015,Cindy Chase,"4297 Moore Grove
+Port Richard, MA 85527",838.660.3314,R,NetCore,Andres,Sputnik,Tarde2,backend
+Manuel,Mann,367015125,Terry Reed,"3250 Parker Trafficway Apt. 311
+Pamelaberg, CT 01987",001-528-389-2268x648,A,NetCore,Carlos,Artemis,Mañana1,DB
+Brian,Osborn,913858761,Brian Mcdonald,"428 Martinez Inlet
+New Michael, CT 89716",346.922.8626x0579,A,Java,Andres,Artemis,Tarde1,ProgramacionNormal
+David,Davis,112500341,Sean Wright,"635 Kathy Ridges Suite 693
+Port Dustinborough, UT 80544",+1-250-897-4460x79813,R,NetCore,Mario,Sputnik,Tarde1,fundamentos
+Michael,Wong,701308878,Russell Bowers,"USNV Morgan
+FPO AA 63678",(696)782-7100,R,Java,Carlos,Artemis,Tarde2,backend
+Kim,Olson,900361484,Robert Jones,"16318 Watson Lodge
+Port Monica, AK 67707",622-818-6135x4226,R,NodeJS,Mario,Apolo,Tarde2,ProgramacionNormal
+Nicholas,Hernandez,441477053,Brenda Reyes,"86529 Shelly Isle Suite 427
+Lake Kellyburgh, CT 85945",482-687-2028x301,R,NetCore,Mario,Apolo,Tarde2,ProgramacionWeb
+Allison,Giles,387342278,Dr. Katrina Wright,"3570 Troy Port
+Port Emilytown, IA 27324",001-339-374-2256x34510,A,Java,Carlos,Apolo,Mañana2,backend
+Nicholas,Dennis,499595669,Lance Davis,"122 Murphy Hollow Apt. 744
+Jesusberg, NH 85138",4056231441,R,NodeJS,Carlos,Apolo,Tarde1,DB
+Mark,Welch,106855346,Makayla Castillo,"96787 Turner Drive
+Brownstad, PR 97926",857-587-7143,R,NetCore,Andres,Artemis,Mañana1,ProgramacionNormal
+Michael,Williams,953975390,Cory Hernandez,"39305 Ryan Circles
+South Deborahstad, MS 10962",786-391-2206,R,Java,Mario,Apolo,Tarde2,fundamentos
+Morgan,Davies,663270618,Robert Andersen,"22374 Elaine Light
+New Lisashire, AK 11396",349-855-4494,R,NodeJS,Andres,Apolo,Tarde2,ProgramacionNormal
+Diamond,Strickland,531308385,Troy Patel,"9262 Michael Haven Suite 675
+New Taylor, IN 13475",313.526.7622x8721,A,NodeJS,Andres,Apolo,Tarde2,backend
+Rebecca,Owens,687393402,Laura Mcintosh,"PSC 1796, Box 7916
+APO AP 81783",343.775.4040x14971,R,Java,Carlos,Sputnik,Tarde1,DB
+Stefanie,Stevenson,921426496,David Williams,"256 Marks Motorway Suite 204
+North Denise, FL 09892",+1-945-453-6461x335,A,NodeJS,Pedro,Sputnik,Mañana2,backend
+Matthew,Merritt,293799316,Mrs. Angela Garrison MD,"35054 Hall Pass
+Lake Samuelborough, NV 26004",665.782.5192,A,NodeJS,Carlos,Apolo,Tarde1,fundamentos
+Patricia,Allen,334489013,James Giles,"853 Cynthia Locks
+Norrisshire, MS 20113",(297)243-9617x70025,A,NodeJS,Pepe,Apolo,Mañana2,ProgramacionWeb
+Kathryn,Jordan,291298259,Michelle Pacheco,"90060 Giles Villages Apt. 760
+Katherinefort, AK 37997",586.776.7260,A,NetCore,Andres,Apolo,Tarde2,ProgramacionWeb
+Brandon,West,121856421,Adriana Weaver,"829 Nathan Valleys
+New Christopher, NV 97622",5699994140,A,NetCore,Carlos,Sputnik,Mañana1,ProgramacionWeb
+Richard,Andersen,296525170,Danielle Warner,"85207 Mary Shoal Apt. 413
+Anthonyfort, GU 19906",+1-759-772-7234x36578,R,NodeJS,Pedro,Sputnik,Tarde1,fundamentos
+Jordan,Brown,463261543,Heidi Gonzales,"025 Tara Landing
+Hallside, UT 46064",001-382-362-7421x844,A,Java,Pedro,Artemis,Mañana1,ProgramacionWeb
+Kathleen,Castro,844495879,Lauren Craig,"54241 Thomas Summit
+Simsport, MP 76995",274.205.5304,A,NodeJS,Pedro,Apolo,Tarde1,DB
+Yvonne,Kirk,298014058,Donna Gomez,"98612 Mckenzie Inlet Suite 453
+South Troyton, IL 46227",941-213-8819x2468,A,Java,Pedro,Sputnik,Tarde1,backend
+Deanna,Anderson,504667870,Amber Brown,"50976 Kathryn Grove
+Morrisport, FL 57049",508-297-4731,A,NetCore,Carlos,Artemis,Tarde1,ProgramacionWeb
+Tammy,Harrison,841162561,Philip Sawyer,"3218 Benjamin Alley
+New Rachel, HI 71610",001-304-204-2480x8104,A,NodeJS,Mario,Apolo,Mañana1,fundamentos
+Beth,Caldwell,346557035,Amy Miranda,"976 Leach Plaza Apt. 373
+Robertchester, KY 96301",001-226-345-1213x4914,R,Java,Pepe,Sputnik,Mañana2,ProgramacionNormal
+Kyle,Rodriguez,753666639,Aaron Cochran,"52597 Huynh Viaduct Apt. 594
+Robertborough, NM 71573",001-930-613-2898x70354,A,NetCore,Pedro,Apolo,Tarde2,backend
+Jeffrey,Olsen,824104762,Timothy Morrow,"215 Wong Summit
+East Ethan, LA 59181",(866)284-6178x82179,R,NodeJS,Mario,Sputnik,Mañana1,ProgramacionNormal
+Patrick,Robles,540604550,Bradley Ramos,"30836 Carter Extension
+Ambertown, TX 14844",956.427.9345x85702,R,Java,Andres,Artemis,Mañana1,ProgramacionNormal
+Sarah,Miller,712030762,Elizabeth Cook,"3533 Michael Street Suite 916
+Melendezport, AR 61354",(761)751-0640x513,A,NetCore,Pepe,Artemis,Mañana1,backend
+Jennifer,Collins,161526474,Gabriella Daugherty,"398 Kevin Shore Suite 033
+Whiteland, SD 27693",203.842.3715x276,R,Java,Carlos,Artemis,Tarde2,backend
+Bruce,Vega,404982141,Julie Johnson,"Unit 7857 Box 6682
+DPO AE 84457",285-421-2653,A,NetCore,Mario,Apolo,Mañana2,fundamentos
+Kristin,Lopez,145157016,Linda Sharp,"2976 Stacie Flat Apt. 729
+West Rebeccafort, CT 97188",7078715477,R,Java,Pepe,Sputnik,Mañana2,ProgramacionNormal
+Melvin,Sanders,149774557,Allison Morse MD,"891 Luke Parkways
+Kellymouth, MT 28960",489-495-0196x8600,A,Java,Pedro,Sputnik,Mañana1,ProgramacionWeb
+Denise,Gill,417753356,Deanna Mccann,"4924 Lopez Stream Suite 928
+Douglasfurt, SD 33858",(740)521-1489,R,Java,Mario,Apolo,Tarde2,backend
+Holly,Ortiz,862206391,Brendan Bell,"764 Thomas Square Suite 587
+Lake Kathleen, GU 82488",(297)438-0460x140,A,Java,Pepe,Artemis,Mañana2,ProgramacionWeb
+Joshua,Kelly,188547765,Travis Bradford,"Unit 9643 Box 1904
+DPO AP 66461",+1-328-934-6869x91209,A,NetCore,Pepe,Artemis,Tarde2,fundamentos
+Leslie,Dominguez,593030826,Tanya Thompson,"7838 Erika Coves
+Zacharyton, PW 26664",565.782.9330x3570,A,Java,Mario,Apolo,Tarde1,DB
+Andrea,Garrison,182599604,Bruce Young,"70521 Johnson Ferry
+New Sarah, CT 24590",(359)969-4340,A,NodeJS,Mario,Artemis,Mañana1,ProgramacionNormal
+Barbara,Bowen,269321499,Kristina Wyatt,"8212 Joseph Causeway Suite 565
+West Deborah, MN 77519",331-911-4080,A,Java,Mario,Artemis,Mañana1,DB
+Nicholas,Harris,522387877,Joanne Lawson,"USNV Warren
+FPO AP 07924",296.209.6563x31624,R,NodeJS,Pedro,Apolo,Mañana1,DB
+Joseph,Clark,294963347,Elizabeth Valdez,"22045 Melissa Ford Apt. 318
+North Taylorhaven, DE 10994",456-361-1920,R,NodeJS,Mario,Sputnik,Tarde1,fundamentos
+Laura,Bradley,318192139,Donna Strickland,"28117 Andre Pines
+New Tiffany, KY 86398",001-219-334-2275,R,NodeJS,Pepe,Sputnik,Mañana2,fundamentos
+Samantha,Davis,674679017,Holly Cochran,"776 Jackson Pike Apt. 526
+South Heatherberg, OR 21107",578.603.4204,A,NodeJS,Mario,Apolo,Mañana1,ProgramacionWeb
+Catherine,Clark,965235703,Amber Lopez,"711 Jimenez Heights Apt. 559
+Greenchester, MT 85899",812-789-5035x2296,A,Java,Pedro,Artemis,Mañana1,DB
+Kelsey,Hanson,347181297,Marcus Raymond,"273 Franco Park Apt. 995
+East Danny, PA 05868",394-315-8438x67635,A,NetCore,Pedro,Artemis,Tarde1,ProgramacionNormal
+Gloria,Jacobs,984920174,Victoria Davis,"3465 Adams Mills
+West Davidburgh, IN 72357",(284)741-8722,R,NetCore,Andres,Sputnik,Mañana1,fundamentos
+Andrew,Barnes,846368392,Daniel Reyes,"375 Sarah Plaza
+New Daniel, LA 98309",001-203-951-7821x28348,A,NetCore,Pepe,Sputnik,Mañana1,ProgramacionWeb
+Lisa,Bryant,672531715,Pamela Ball,"2336 Young Islands
+Chasefort, OK 82009",(755)738-9683x8885,A,Java,Mario,Sputnik,Mañana2,ProgramacionNormal
+Joseph,Pearson,223733572,Gina Jimenez,"347 Tate Club
+Matthewmouth, PR 44229",441-648-3224x13308,A,NodeJS,Mario,Artemis,Tarde1,DB
+Kevin,Lowe,947829157,David Gutierrez,"596 Stacy Throughway Suite 949
+West Michael, OH 26852",507.567.4274x01044,A,Java,Mario,Sputnik,Tarde1,ProgramacionWeb
+Jason,Reese,566612551,Felicia Guzman,"802 David Lake
+Port Ericaville, LA 73551",(396)371-0144,A,Java,Mario,Apolo,Tarde1,ProgramacionNormal
+Meghan,Schneider,751884040,Candice Vazquez,"240 Fernando Isle Suite 795
+Rileymouth, NV 52846",845.527.7809x1100,R,NetCore,Mario,Sputnik,Mañana1,DB
+Stephanie,Burke,194355325,Jaime Carr,"USNS Glass
+FPO AP 46836",+1-993-936-8482,A,NodeJS,Andres,Artemis,Mañana2,backend
+Jeremy,Hall,954686461,Melanie Robles,"01705 Robinson Burgs
+Audreyfurt, DE 60794",597.941.4442x0494,R,NodeJS,Andres,Sputnik,Tarde2,backend
+Paul,Williams,584599424,Tracy Bender,"USNS Williamson
+FPO AE 91101",+1-777-885-0107x995,R,Java,Carlos,Apolo,Mañana2,DB
+Emily,Davis,798740276,Francisco Wright,"6422 Stephanie Crest Apt. 166
+Leonardview, SD 96241",300-209-8282,A,Java,Mario,Sputnik,Mañana1,DB
+Timothy,Thompson,470883618,Emily Ramos,"540 Hurst Islands
+Brooksville, AR 68210",923.257.1807x896,A,NetCore,Pepe,Apolo,Tarde1,fundamentos
+Erin,Reyes,248203617,Jaime Rivera,"927 Brett Wells Suite 199
+New Alicialand, NJ 34359",(581)899-5225x36250,A,NetCore,Mario,Apolo,Mañana2,DB
+Emily,Andrade,467211147,Kelly Nguyen,"USCGC Perry
+FPO AE 17837",551.594.7602x39892,R,NetCore,Pepe,Sputnik,Mañana2,ProgramacionNormal
+Susan,Acosta,599486314,Cameron Russo,"6957 Guzman Pass Apt. 048
+Raymondport, VT 94263",+1-759-659-0654x299,A,NodeJS,Mario,Sputnik,Mañana2,fundamentos
+Courtney,Soto,834578935,Patricia Lester,"Unit 3761 Box 1258
+DPO AA 30698",(983)453-6373x93017,A,NodeJS,Pedro,Apolo,Tarde1,ProgramacionWeb
+Brian,Brown,351188153,David Tate,"086 Brown Plains Apt. 024
+West Nicholas, AR 71828",001-629-486-2308x787,A,NetCore,Carlos,Sputnik,Mañana1,DB
+Rebecca,Torres,892406357,Susan Mills,"55731 Sylvia Plaza
+North Kevinchester, AZ 73309",3538201366,R,NodeJS,Pedro,Artemis,Tarde1,fundamentos
+David,Murphy,205546058,Donald Jackson,"0338 Cynthia Ports
+Ryanport, MO 53155",2862822402,R,NetCore,Pepe,Artemis,Mañana2,fundamentos
+Kyle,Bowen,700116192,Tina Moore,"64377 Holland Grove Apt. 708
+Martinezmouth, LA 90822",235.334.4444x83645,A,NetCore,Carlos,Apolo,Tarde2,ProgramacionNormal
+Deborah,Lee,675584125,Jennifer Edwards,"8159 Clements Orchard Apt. 679
+South Sherry, MP 05281",001-953-358-2962x2942,A,NetCore,Pedro,Apolo,Mañana1,backend
+Michelle,Blake,847710399,Adam Lambert,"657 Parsons Mews Apt. 840
+Walkerland, ME 73924",+1-225-927-6200,A,Java,Mario,Sputnik,Tarde1,ProgramacionWeb
+Judy,Martin,259750635,James Hunt,"520 Smith Mount Suite 759
+South Samantha, HI 24653",221.684.7628x369,R,NetCore,Mario,Apolo,Mañana1,fundamentos
+William,Wood,290284399,Scott George,"744 Johnson Field
+Jeremyville, KS 25054",+1-592-289-0704x03888,R,Java,Pedro,Sputnik,Mañana2,ProgramacionNormal
+Amber,Johnston,687191026,Bradley Riggs,"3976 Hancock Light Suite 687
+Meganview, IN 68052",+1-557-306-9451,R,NetCore,Mario,Sputnik,Mañana1,backend
+Sarah,Greene,784496888,Kristina Lee,"60645 Perkins Glen Apt. 934
+Lake Robinport, MA 70620",734.611.2165,A,Java,Pedro,Artemis,Tarde1,DB
+Richard,Carpenter,932565803,Katrina Gross,"989 Sarah Valleys Apt. 041
+Port Lauren, NJ 41998",204-234-0808,R,Java,Mario,Sputnik,Mañana1,DB
+Bobby,White,275837235,Melissa Gomez,"69043 Adams Tunnel
+Jamesmouth, AK 53954",(774)260-1294x2249,R,NodeJS,Andres,Apolo,Mañana2,fundamentos
+Jaclyn,Higgins,335435938,Catherine Smith,"7360 Gabrielle Hills Suite 807
+West Barbaramouth, PR 14825",899-627-1191x0861,A,NetCore,Pedro,Sputnik,Tarde1,fundamentos
+Bethany,Galvan,192346157,Lawrence Gibson,"79358 Gene Lodge Apt. 644
+North Gailview, SC 56518",(694)205-2486x52069,A,NodeJS,Mario,Sputnik,Mañana1,fundamentos
+Shari,Oneal,295459090,Natasha Mckenzie,"8248 Todd Plain Apt. 407
+New Brian, IA 20404",+1-252-474-3145x601,R,NodeJS,Pedro,Sputnik,Mañana1,DB
+Annette,Nolan,163976417,Michael Davis,"220 Herrera Locks
+Smithview, VT 56301",+1-503-970-8846,A,Java,Mario,Sputnik,Mañana2,DB
