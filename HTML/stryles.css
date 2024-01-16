@@ -1,0 +1,70 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.contenedor {
+    width: 1000px;
+    height: 800px;
+    margin: 20px; /* Ajusta el margen según tus necesidades */
+    border: 1px solid #000; /* Borde para visualización */
+    box-sizing: border-box; /* Evita que el borde afecte las dimensiones totales */
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.seccion {
+    box-sizing: border-box; /* Evita que el borde afecte las dimensiones totales de cada sección */
+    border: 1px solid #000; /* Borde para visualización */
+    display: flex;
+}
+
+.seccion1 {
+    height: 200px;
+}
+
+.logo {
+    width: 200px; /* Ajusta el ancho del espacio para el logo según tus necesidades */
+    background-color: #ccc; /* Color de fondo para visualización */
+}
+
+.banner {
+    flex: 1; 
+    width: 800px;
+    text-align: center;
+    background-color: #ddd; 
+    border: 1px solid #000;
+}
+
+.seccion2 {
+    height: 50px;
+}
+
+.seccion3 {
+    height: 500px;
+    display: flex;
+}
+
+.articulo {
+    width: 700px;
+    border:1px #000;
+    text-align: center;
+    background-color: #eee; /* Color de fondo para visualización */
+}
+
+.tablero {
+    flex: 1; /* Toma el espacio restante para el tablero de noticias */
+    width: 300px;
+    text-align: center;
+    border: #000 1px solid;
+    background-color: #eee; /* Color de fondo para visualización */
+}
+
+.seccion4 {
+    height: 50px;
+}
